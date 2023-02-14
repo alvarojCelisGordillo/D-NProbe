@@ -1,0 +1,12 @@
+C:\Users\Nelly\source\repos\DNPrueba\DN.DAL\bin\Debug\net5.0\DN.DAL.deps.json
+C:\Users\Nelly\source\repos\DNPrueba\DN.DAL\bin\Debug\net5.0\DN.DAL.dll
+C:\Users\Nelly\source\repos\DNPrueba\DN.DAL\bin\Debug\net5.0\ref\DN.DAL.dll
+C:\Users\Nelly\source\repos\DNPrueba\DN.DAL\bin\Debug\net5.0\DN.DAL.pdb
+C:\Users\Nelly\source\repos\DNPrueba\DN.DAL\obj\Debug\net5.0\DN.DAL.csproj.AssemblyReference.cache
+C:\Users\Nelly\source\repos\DNPrueba\DN.DAL\obj\Debug\net5.0\DN.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nelly\source\repos\DNPrueba\DN.DAL\obj\Debug\net5.0\DN.DAL.AssemblyInfoInputs.cache
+C:\Users\Nelly\source\repos\DNPrueba\DN.DAL\obj\Debug\net5.0\DN.DAL.AssemblyInfo.cs
+C:\Users\Nelly\source\repos\DNPrueba\DN.DAL\obj\Debug\net5.0\DN.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Nelly\source\repos\DNPrueba\DN.DAL\obj\Debug\net5.0\DN.DAL.dll
+C:\Users\Nelly\source\repos\DNPrueba\DN.DAL\obj\Debug\net5.0\ref\DN.DAL.dll
+C:\Users\Nelly\source\repos\DNPrueba\DN.DAL\obj\Debug\net5.0\DN.DAL.pdb
